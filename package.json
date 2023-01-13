@@ -1,6 +1,6 @@
 {
   "name": "test-joker-2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Environment Test for jokes",
   "type": "module",
   "main": "index.js",
