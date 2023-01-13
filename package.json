@@ -1,0 +1,25 @@
+{
+  "name": "test-joker-2",
+  "version": "0.0.1",
+  "description": "Environment Test for jokes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaNomad/test-joker-2.git"
+  },
+  "keywords": [
+    "jokes",
+    "website",
+    "page"
+  ],
+  "author": "Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaNomad/test-joker-2/issues"
+  },
+  "homepage": "https://github.com/VaNomad/test-joker-2#readme"
+}
